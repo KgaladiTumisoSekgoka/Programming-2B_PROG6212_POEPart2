@@ -1,0 +1,44 @@
+﻿@model CMCS.Models.RegisterViewModel
+
+<h2>Lecturer Registration</h2>
+
+<form asp-action="Register" method="post">
+    <div class="form-group">
+        <label asp-for="Username"></label>
+        <input asp-for="Username" class="form-control" required />
+        <span asp-validation-for="Username" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Email"></label>
+        <input asp-for="Email" class="form-control" required />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Password"></label>
+        <input asp-for="Password" class="form-control" type="password" required />
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Role"></label>
+        <select asp-for="Role" class="form-control">
+            <option value="Lecturer">Lecturer</option>
+        </select>
+        <span asp-validation-for="Role" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Departments"></label>
+        <select asp-for="Departments" class="form-control" required>
+            <option value="">Select Department</option>
+            <option value="Executive Education">Executive Education</option>
+            <option value="Finance and Accounting">Finance and Accounting</option>
+            <option value="Management Studies">Management Studies</option>
+            <option value="Humanities">Humanities</option>
+            <option value="Law">Law</option>
+            <option value="Information Technology">Information Technology</option>
+            <option value="Engineering Science">Engineering Science</option>
+            <option value="Health">Health</option>
+        </select>
+        <span asp-validation-for="Departments" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Register</button>
+</form>

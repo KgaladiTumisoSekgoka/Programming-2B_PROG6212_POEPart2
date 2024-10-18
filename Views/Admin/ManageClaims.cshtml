@@ -1,0 +1,45 @@
+﻿@model List<CMCS.Models.ClaimViewModel>
+
+<h2>Manage Claims</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Claim ID</th>
+            <th>Submission Date</th>
+            <th>Month</th>
+            <th>Hours Worked</th>
+            <th>Hourly Rate</th>
+            <th>Total Claim</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var claim in Model)
+        {
+            <tr>
+                <td>@claim.ClaimID</td>
+                <td>@claim.SubmissionDate.ToShortDateString()</td>
+                <td>@claim.Month</td>
+                <td>@claim.HoursWorked</td>
+                <td>@claim.HourlyRate</td>
+                <td>@claim.TotalClaim</td>
+                <td>@claim.Status</td>
+                <td>
+                    <form asp-action="ApproveRejectClaim" method="post">
+                        <input type="hidden" name="claimId" value="@claim.ClaimID" />
+                        <input type="hidden" name="action" value="approve" />
+                        <input type="text" name="reason" placeholder="Reason (optional)" />
+                        <button type="submit">Approve</button>
+                    </form>
+                    <form asp-action="ApproveRejectClaim" method="post">
+                        <input type="hidden" name="claimId" value="@claim.ClaimID" />
+                        <input type="hidden" name="action" value="reject" />
+                        <input type="text" name="reason" placeholder="Reason for rejection" required />
+                        <button type="submit">Reject</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

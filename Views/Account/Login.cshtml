@@ -1,0 +1,18 @@
+﻿@model CMCS.Models.User
+
+<h2>Login</h2>
+<form asp-action="Login" method="post">
+    <div>
+        <label asp-for="Email"></label>
+        <input asp-for="Email" required type="email" />
+    </div>
+    <div>
+        <label asp-for="Username"></label>
+        <input asp-for="Username" required />
+    </div>
+    <div>
+        <label asp-for="Password"></label>
+        <input asp-for="Password" required type="password" />
+    </div>
+    <button type="submit">Login</button>
+</form>

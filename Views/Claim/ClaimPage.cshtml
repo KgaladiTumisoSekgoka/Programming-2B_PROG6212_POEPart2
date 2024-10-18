@@ -1,0 +1,90 @@
+﻿@model CMCS.Models.ClaimViewModel
+@{
+    ViewData["Title"] = "Claim Page";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Submit a Claim</title>
+    <link rel="stylesheet" href="~/css/bootstrap.min.css" asp-append-version="true" />
+</head>
+
+<body>
+
+    <div class="container mt-5">
+        <h2>Submit Your Claim</h2>
+        <div asp-validation-summary="All" class="text-danger"></div>
+
+        <form asp-action="SubmitClaim" method="post" enctype="multipart/form-data">
+            <div class="form-group">
+                <label for="month">Month:</label>
+                <select id="month" class="form-control" asp-for="Month">
+                    <option value="">Select a Month</option>
+                    @for (int i = 1; i <= 12; i++)
+                    {
+                        <option value="@i">@System.Globalization.CultureInfo.CurrentCulture.DateTimeFormat.GetMonthName(i)</option>
+                    }
+                </select>
+                <span asp-validation-for="Month" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="hoursWorked">Hours Worked:</label>
+                <input type="number" id="hoursWorked" class="form-control" asp-for="HoursWorked" max="195" placeholder="Enter hours worked (max 195)" />
+                <span asp-validation-for="HoursWorked" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="TaxDeductions">Tax Deductions</label>
+                <input asp-for="TaxDeductions" class="form-control" type="number" step="0.1" placeholder="Enter deductions without currency symbol" />
+                <span asp-validation-for="TaxDeductions" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <label for="fileUpload">Upload Supporting Document:</label>
+                <input type="file" id="fileUpload" class="form-control-file" asp-for="Document" />
+                <span asp-validation-for="Document" class="text-danger"></span>
+            </div>
+
+
+            <button type="submit" class="btn btn-primary">Submit Claim</button>
+            @if (TempData["SuccessMessage"] != null)
+            {
+                <div class="alert alert-success">
+                    @TempData["SuccessMessage"]
+                </div>
+            }
+
+        </form>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $('#hoursWorked').on('input', function () {
+                let hours = $(this).val();
+                // Basic inline tax calculation based on SARS (example: 10% deduction)
+                let deduction = hours * 0.10;
+                $('#taxDeduction').val('R' + deduction.toFixed(2));
+            });
+
+            $('form').on('submit', function (e) {
+                let fileInput = $('#fileUpload')[0];
+                let file = fileInput.files[0];
+                if (file && file.size > 5242880) {  // 5MB in bytes
+                    e.preventDefault();
+                    alert("The file size should be 5MB or smaller.");
+                }
+            });
+        });
+    </script>
+</body>
+
+</html>
