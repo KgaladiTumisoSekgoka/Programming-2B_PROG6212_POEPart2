@@ -165,8 +165,4 @@ WHERE L.LecturerID = 2 AND U.UserID = 3;
 -- Check if the lecturer exists
 SELECT * FROM Lecturer WHERE lecturerID = 2;
 
--- Check the current Claim table structure and constraints
-SHOW CREATE TABLE Claim;
-INSERT INTO Claim (lecturerID, adminID, documentPath, hoursWorked, hourlyRate, month, status) 
-VALUES (2, NULL, 'document.pdf', 40.00, 150.00, 'September', 'Pending');
-*/
+
