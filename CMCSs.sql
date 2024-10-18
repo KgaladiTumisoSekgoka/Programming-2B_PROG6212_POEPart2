@@ -162,7 +162,5 @@ FROM Lecturer L
 JOIN Users U ON L.UserID = U.UserID
 WHERE L.LecturerID = 2 AND U.UserID = 3;
 
--- Check if the lecturer exists
-SELECT * FROM Lecturer WHERE lecturerID = 2;
 
 
