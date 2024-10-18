@@ -152,11 +152,6 @@ INSERT INTO Claim (lecturerID, adminID, documentPath, hoursWorked, hourlyRate, m
 VALUES (5, 2, '/documents/claim5.pdf', 60.00, 175.00, 'July', 'Rejected', '2024-07-20 08:30:00', 0.00, 60.00 * 175.00, 'Additional tutorials');
 
 
-/*SELECT * FROM Lecturer WHERE LecturerID =3;
-INSERT INTO Lecturer (LecturerID,Department)
-VALUES
-(123, 'Lecturer1', 'Lecturer1@gmail.com', 'Information Technology');
-
 
 
 
