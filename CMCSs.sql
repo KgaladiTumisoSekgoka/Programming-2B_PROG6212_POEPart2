@@ -157,10 +157,7 @@ INSERT INTO Lecturer (LecturerID,Department)
 VALUES
 (123, 'Lecturer1', 'Lecturer1@gmail.com', 'Information Technology');
 
-SELECT L.LecturerID, U.UserID, U.Username, U.Email
-FROM Lecturer L
-JOIN Users U ON L.UserID = U.UserID
-WHERE L.LecturerID = 2 AND U.UserID = 3;
+
 
 
 
