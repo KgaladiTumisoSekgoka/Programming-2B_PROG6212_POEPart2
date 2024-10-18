@@ -1,0 +1,440 @@
+E:\CMCS\obj\Debug\net8.0\CMCS.csproj.AssemblyReference.cache
+E:\CMCS\obj\Debug\net8.0\CMCS.GeneratedMSBuildEditorConfig.editorconfig
+E:\CMCS\obj\Debug\net8.0\CMCS.AssemblyInfoInputs.cache
+E:\CMCS\obj\Debug\net8.0\CMCS.AssemblyInfo.cs
+E:\CMCS\obj\Debug\net8.0\CMCS.csproj.CoreCompileInputs.cache
+E:\CMCS\obj\Debug\net8.0\CMCS.MvcApplicationPartsAssemblyInfo.cache
+E:\CMCS\obj\Debug\net8.0\CMCS.RazorAssemblyInfo.cache
+E:\CMCS\obj\Debug\net8.0\CMCS.RazorAssemblyInfo.cs
+E:\CMCS\bin\Debug\net8.0\appsettings.Development.json
+E:\CMCS\bin\Debug\net8.0\appsettings.json
+E:\CMCS\bin\Debug\net8.0\CMCS.staticwebassets.runtime.json
+E:\CMCS\bin\Debug\net8.0\CMCS.exe
+E:\CMCS\bin\Debug\net8.0\CMCS.deps.json
+E:\CMCS\bin\Debug\net8.0\CMCS.runtimeconfig.json
+E:\CMCS\bin\Debug\net8.0\CMCS.dll
+E:\CMCS\bin\Debug\net8.0\CMCS.pdb
+E:\CMCS\bin\Debug\net8.0\Humanizer.dll
+E:\CMCS\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CMCS\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\CMCS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\CMCS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\CMCS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\CMCS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\CMCS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\CMCS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\CMCS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\CMCS\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\CMCS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\CMCS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CMCS\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\CMCS\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\CMCS\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\CMCS\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\CMCS\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\CMCS\bin\Debug\net8.0\MySqlConnector.dll
+E:\CMCS\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\CMCS\bin\Debug\net8.0\System.CodeDom.dll
+E:\CMCS\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\CMCS\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\CMCS\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\CMCS\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\CMCS\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\CMCS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\CMCS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\CMCS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\CMCS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\CMCS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\CMCS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\CMCS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\CMCS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\CMCS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\CMCS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\CMCS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\CMCS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\CMCS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\CMCS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CMCS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CMCS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CMCS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CMCS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CMCS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CMCS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CMCS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CMCS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CMCS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CMCS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CMCS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CMCS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CMCS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CMCS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CMCS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CMCS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CMCS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CMCS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CMCS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CMCS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CMCS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CMCS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CMCS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CMCS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CMCS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CMCS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CMCS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CMCS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CMCS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CMCS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CMCS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CMCS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CMCS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CMCS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CMCS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CMCS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CMCS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CMCS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CMCS\obj\Debug\net8.0\staticwebassets.build.json
+E:\CMCS\obj\Debug\net8.0\staticwebassets.development.json
+E:\CMCS\obj\Debug\net8.0\staticwebassets\msbuild.CMCS.Microsoft.AspNetCore.StaticWebAssets.props
+E:\CMCS\obj\Debug\net8.0\staticwebassets\msbuild.build.CMCS.props
+E:\CMCS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CMCS.props
+E:\CMCS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CMCS.props
+E:\CMCS\obj\Debug\net8.0\staticwebassets.pack.json
+E:\CMCS\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\CMCS\obj\Debug\net8.0\scopedcss\bundle\CMCS.styles.css
+E:\CMCS\obj\Debug\net8.0\scopedcss\projectbundle\CMCS.bundle.scp.css
+E:\CMCS\obj\Debug\net8.0\CMCS.csproj.Up2Date
+E:\CMCS\obj\Debug\net8.0\CMCS.dll
+E:\CMCS\obj\Debug\net8.0\refint\CMCS.dll
+E:\CMCS\obj\Debug\net8.0\CMCS.pdb
+E:\CMCS\obj\Debug\net8.0\CMCS.genruntimeconfig.cache
+E:\CMCS\obj\Debug\net8.0\ref\CMCS.dll
+E:\IIE MSA\CMCS\obj\Debug\net8.0\CMCS.csproj.AssemblyReference.cache
+E:\IIE MSA\CMCS\obj\Debug\net8.0\CMCS.GeneratedMSBuildEditorConfig.editorconfig
+E:\IIE MSA\CMCS\obj\Debug\net8.0\CMCS.AssemblyInfoInputs.cache
+E:\IIE MSA\CMCS\obj\Debug\net8.0\CMCS.AssemblyInfo.cs
+E:\IIE MSA\CMCS\obj\Debug\net8.0\CMCS.csproj.CoreCompileInputs.cache
+E:\IIE MSA\CMCS\obj\Debug\net8.0\CMCS.MvcApplicationPartsAssemblyInfo.cache
+E:\IIE MSA\CMCS\obj\Debug\net8.0\CMCS.RazorAssemblyInfo.cache
+E:\IIE MSA\CMCS\obj\Debug\net8.0\CMCS.RazorAssemblyInfo.cs
+E:\IIE MSA\CMCS\bin\Debug\net8.0\appsettings.Development.json
+E:\IIE MSA\CMCS\bin\Debug\net8.0\appsettings.json
+E:\IIE MSA\CMCS\bin\Debug\net8.0\CMCS.staticwebassets.runtime.json
+E:\IIE MSA\CMCS\bin\Debug\net8.0\CMCS.exe
+E:\IIE MSA\CMCS\bin\Debug\net8.0\CMCS.deps.json
+E:\IIE MSA\CMCS\bin\Debug\net8.0\CMCS.runtimeconfig.json
+E:\IIE MSA\CMCS\bin\Debug\net8.0\CMCS.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\CMCS.pdb
+E:\IIE MSA\CMCS\bin\Debug\net8.0\Humanizer.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\MySqlConnector.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\System.CodeDom.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IIE MSA\CMCS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IIE MSA\CMCS\obj\Debug\net8.0\staticwebassets.build.json
+E:\IIE MSA\CMCS\obj\Debug\net8.0\staticwebassets.development.json
+E:\IIE MSA\CMCS\obj\Debug\net8.0\staticwebassets\msbuild.CMCS.Microsoft.AspNetCore.StaticWebAssets.props
+E:\IIE MSA\CMCS\obj\Debug\net8.0\staticwebassets\msbuild.build.CMCS.props
+E:\IIE MSA\CMCS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CMCS.props
+E:\IIE MSA\CMCS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CMCS.props
+E:\IIE MSA\CMCS\obj\Debug\net8.0\staticwebassets.pack.json
+E:\IIE MSA\CMCS\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\IIE MSA\CMCS\obj\Debug\net8.0\scopedcss\bundle\CMCS.styles.css
+E:\IIE MSA\CMCS\obj\Debug\net8.0\scopedcss\projectbundle\CMCS.bundle.scp.css
+E:\IIE MSA\CMCS\obj\Debug\net8.0\CMCS.csproj.Up2Date
+E:\IIE MSA\CMCS\obj\Debug\net8.0\CMCS.dll
+E:\IIE MSA\CMCS\obj\Debug\net8.0\refint\CMCS.dll
+E:\IIE MSA\CMCS\obj\Debug\net8.0\CMCS.pdb
+E:\IIE MSA\CMCS\obj\Debug\net8.0\CMCS.genruntimeconfig.cache
+E:\IIE MSA\CMCS\obj\Debug\net8.0\ref\CMCS.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\obj\Debug\net8.0\CMCS.csproj.AssemblyReference.cache
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\obj\Debug\net8.0\CMCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\obj\Debug\net8.0\CMCS.AssemblyInfoInputs.cache
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\obj\Debug\net8.0\CMCS.AssemblyInfo.cs
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\obj\Debug\net8.0\CMCS.csproj.CoreCompileInputs.cache
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\obj\Debug\net8.0\CMCS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\obj\Debug\net8.0\CMCS.RazorAssemblyInfo.cache
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\obj\Debug\net8.0\CMCS.RazorAssemblyInfo.cs
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\appsettings.json
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\CMCS.staticwebassets.runtime.json
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\CMCS.exe
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\CMCS.deps.json
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\CMCS.runtimeconfig.json
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\CMCS.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\CMCS.pdb
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\Humanizer.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\obj\Debug\net8.0\staticwebassets\msbuild.CMCS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\obj\Debug\net8.0\staticwebassets\msbuild.build.CMCS.props
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CMCS.props
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CMCS.props
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\obj\Debug\net8.0\scopedcss\bundle\CMCS.styles.css
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\obj\Debug\net8.0\scopedcss\projectbundle\CMCS.bundle.scp.css
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\obj\Debug\net8.0\CMCS.csproj.Up2Date
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\obj\Debug\net8.0\CMCS.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\obj\Debug\net8.0\refint\CMCS.dll
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\obj\Debug\net8.0\CMCS.pdb
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\obj\Debug\net8.0\CMCS.genruntimeconfig.cache
+C:\Users\chaka\OneDrive\Documents\CMCS(1)\CMCS\obj\Debug\net8.0\ref\CMCS.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\appsettings.Development.json
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\appsettings.json
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\CMCS.staticwebassets.runtime.json
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\CMCS.exe
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\CMCS.deps.json
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\CMCS.runtimeconfig.json
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\CMCS.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\CMCS.pdb
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\Humanizer.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\MySqlConnector.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\System.CodeDom.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CMCS(1)\CMCS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CMCS(1)\CMCS\obj\Debug\net8.0\CMCS.csproj.AssemblyReference.cache
+E:\CMCS(1)\CMCS\obj\Debug\net8.0\CMCS.GeneratedMSBuildEditorConfig.editorconfig
+E:\CMCS(1)\CMCS\obj\Debug\net8.0\CMCS.AssemblyInfoInputs.cache
+E:\CMCS(1)\CMCS\obj\Debug\net8.0\CMCS.AssemblyInfo.cs
+E:\CMCS(1)\CMCS\obj\Debug\net8.0\CMCS.csproj.CoreCompileInputs.cache
+E:\CMCS(1)\CMCS\obj\Debug\net8.0\CMCS.MvcApplicationPartsAssemblyInfo.cache
+E:\CMCS(1)\CMCS\obj\Debug\net8.0\CMCS.RazorAssemblyInfo.cache
+E:\CMCS(1)\CMCS\obj\Debug\net8.0\CMCS.RazorAssemblyInfo.cs
+E:\CMCS(1)\CMCS\obj\Debug\net8.0\staticwebassets.build.json
+E:\CMCS(1)\CMCS\obj\Debug\net8.0\staticwebassets.development.json
+E:\CMCS(1)\CMCS\obj\Debug\net8.0\staticwebassets\msbuild.CMCS.Microsoft.AspNetCore.StaticWebAssets.props
+E:\CMCS(1)\CMCS\obj\Debug\net8.0\staticwebassets\msbuild.build.CMCS.props
+E:\CMCS(1)\CMCS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CMCS.props
+E:\CMCS(1)\CMCS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CMCS.props
+E:\CMCS(1)\CMCS\obj\Debug\net8.0\staticwebassets.pack.json
+E:\CMCS(1)\CMCS\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\CMCS(1)\CMCS\obj\Debug\net8.0\scopedcss\bundle\CMCS.styles.css
+E:\CMCS(1)\CMCS\obj\Debug\net8.0\scopedcss\projectbundle\CMCS.bundle.scp.css
+E:\CMCS(1)\CMCS\obj\Debug\net8.0\CMCS.csproj.Up2Date
+E:\CMCS(1)\CMCS\obj\Debug\net8.0\CMCS.dll
+E:\CMCS(1)\CMCS\obj\Debug\net8.0\refint\CMCS.dll
+E:\CMCS(1)\CMCS\obj\Debug\net8.0\CMCS.pdb
+E:\CMCS(1)\CMCS\obj\Debug\net8.0\CMCS.genruntimeconfig.cache
+E:\CMCS(1)\CMCS\obj\Debug\net8.0\ref\CMCS.dll
